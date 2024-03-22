@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Kush",
+        "price": 50,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kush_close.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cannabis Indica",
+        "price": 56,
+        "image": "https://hashmuseum.com/wp-content/uploads/INDICA_bud-1-scaled.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Canabis Sativa",
+        "price": 59,
+        "image": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_727201_16650198656363552.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cannabis Hybrid",
+        "price": 63,
+        "image": "https://wccannabis.co/wp-content/uploads/2022/08/hybrid-cannabis-strain.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sour Diesel",
+        "price": 61,
+        "image": "https://www.cannaconnection.com/12125/sour-diesel.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cannabis Ruderalis",
+        "price": 55,
+        "image": "https://honestmarijuana.com/wp-content/uploads/2020/07/pasted-image-0-14.png"
+    },
+    {
+        "id": 7,
+        "name": "Blue Dream",
+        "price": 70,
+        "image": "https://s42695.pcdn.co/wp-content/uploads/2023/07/blue-dream-cannabis-type-is-a-purple-marijuana-plant-bud.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Acapulco Gold",
+        "price": 69,
+        "image": "https://gardenofgreenseedbank.com/wp-content/uploads/2022/02/Acapulco-Gold.png"
+    },
+    {
+        "id": 9,
+        "name": "Jack Herer",
+        "price": 78,
+        "image": "https://strainsupermarket.com/wp-content/uploads/2023/08/jack-herer-feminized-cannabis-seeds.webp"
+    },
+    {
+        "id": 10,
+        "name": "Northern Lights",
+        "price": 79,
+        "image": "https://2fast4buds.com/temp/img_upload/bg_6075cf3c44bcf78344e148722cc0eaa9.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ganja",
+        "price": 62,
+        "image": "https://t4.ftcdn.net/jpg/05/65/17/89/360_F_565178948_kMZzFk3scyVrVoimsF0k6BS9bffnXju4.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Skunk",
+        "price": 59,
+        "image": "https://files.merryjane.com/uploads/generic/1570567010979_a1weedwide.jpg"
+    },
+    {
+        "id": 13,
+        "name": "White Widow",
+        "price": 75,
+        "image": "https://theseedconnect.com/wp-content/uploads/2023/05/white-widow-feminized-seeds-jpeg.webp"
+    },
+    {
+        "id": 14,
+        "name": "Granddaddy Purple",
+        "price": 80,
+        "image": "https://www.theseedpharm.com/wp-content/uploads/2022/01/granddaddy-purple-e1634698580606.png"
+    },
+    {
+        "id": 15,
+        "name": "Amnesia Haze",
+        "price": 75,
+        "image": "https://www.alchimiaweb.com/blogen/wp-content/uploads/2023/05/shutterstock_1128442025-910x605.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Tincture",
+        "price": 68,
+        "image": "https://milkbarn.farm/cdn/shop/products/s554624553272048117_p9_i25_w1190_1200x1200.jpg?v=1631227180"
+    },
+    {
+        "id": 17,
+        "name": "Bruce Banner",
+        "price": 66,
+        "image": "https://www.zamnesia.com/5160-16114/bsb-genetics-bruce-banner-feminized.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Green Crack",
+        "price": 69,
+        "image": "https://leafly-cms-production.imgix.net/wp-content/uploads/2017/06/20151449/greencrack.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Strawberry Cough",
+        "price": 77,
+        "image": "https://www.marijuana-seeds.nl/wordpress/wp-content/uploads/2023/10/Strawberry-cough-strain-in-flowering-stage.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Hashish",
+        "price": 79,
+        "image": "https://admin.sunrisehouse.com/wp-content/uploads/2016/03/marijuana-thc-768x512.jpg"
+    }
+]
